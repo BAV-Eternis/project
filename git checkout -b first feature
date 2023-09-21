@@ -1,0 +1,30 @@
+[33mcommit f06ca90c68ec6a4c46ff2c9748f97990389198e5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0b5c5de 00ca1fb
+Author: bav-eternis <bav@eternis.ru>
+Date:   Thu Sep 21 14:44:31 2023 +0300
+
+    Merge branch 'gui-branch' into main
+
+[33mcommit 00ca1fb4bf0a08b22050ac31c59b5438d6d653fd[m
+Author: bav-eternis <bav@eternis.ru>
+Date:   Thu Sep 21 14:42:53 2023 +0300
+
+    update git kraken
+
+[33mcommit 0b5c5de0f6ebc23b92708ed758fc7e29294e3c4d[m
+Author: Александр <130135023+BAV-Eternis@users.noreply.github.com>
+Date:   Thu Sep 21 11:24:10 2023 +0300
+
+    Update dev.md
+
+[33mcommit 15395d64141bac0d8b0fc062a0838c95205ce4dc[m
+Author: bav-eternis <bav@eternis.ru>
+Date:   Thu Sep 21 11:04:22 2023 +0300
+
+    first dev commit
+
+[33mcommit 62c2478e66259966ba1f948faa774500f6da59ac[m
+Author: Александр <130135023+BAV-Eternis@users.noreply.github.com>
+Date:   Thu Sep 21 10:50:11 2023 +0300
+
+    Initial commit
